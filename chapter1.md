@@ -12,7 +12,7 @@ As a prerequisite, you will need to install Docker. Please ensure your system ha
 
 ## Installation with Proxy \(API Umbrella\)
 
-We have also prepared a Docker Compose image to aide with  installation of Apinf and an accompanying API proxy service \([API Umbrella](https://apiumbrella.io/)\). 
+We have also prepared a Docker Compose image to aide with  installation of Apinf and an accompanying API proxy service \([API Umbrella](https://apiumbrella.io/)\).
 
 **Prerequisite**: You will need to [install Docker Compose](https://docs.docker.com/compose/install/).
 
@@ -25,7 +25,7 @@ To install the combined Apinf platform with proxy, follow these steps:
 4. Create file "docker/ssl/env" based on example "docker/ssl/env.example".
 5. Run `docker-compose up -d`. The first launch of will be slow because \(take couple of minutes\) of the DH parameter computation and configure Let's Encrypt certificate.
 
-## Configure Apinf/proxy integration
+## Configure Apinf/API Umbrella integration
 
 In order to use the API Umbrella proxy through the Apinf platform user interface, follow these instructions:
 
