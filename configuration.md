@@ -20,7 +20,9 @@ The **Adding APIs** section of the settings allows you to restrict the platform,
 
 ## API Documentation Editor
 
-Apinf is able to integrate with the Swagger Editor. To enable the API Documentation Editor feature, you should have already deployed the Swagger Editor, so that it is accessible via URL. Alternatively, you can link to the [Swagger Editor demo](http://editor.swagger.io/), assuming that it is accessible via HTTPS.
+Apinf is able to integrate with the Swagger Editor. To enable the API Documentation Editor feature, you should have already deployed the Swagger Editor, so that it is accessible via an URL. Alternatively, you can link to the [Swagger Editor demo](http://editor.swagger.io/), assuming that it is accessible via HTTPS.
 
+## SDK Code Generator
 
+Apinf integrates with the [Swagger Codegen](http://swagger.io/swagger-codegen/) project, allowing API Owners and Developers to generate SDK code based on a provided OpenAPI Specification file. To enable the SDK Code Generator feature, you should have already deployed the Swagger Codegen, so that it is accessible via an URL.
 
