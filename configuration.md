@@ -6,9 +6,18 @@ You can configure Apinf branding and other settings after registering an initial
 2. Login to the APInf web admin [http://YOUR\_SITE\_DOMAIN/sign-in](http://YOUR_SITE_DOMAIN/sign-in)
 3. Fill APInf settings [http://YOUR\_SITE\_DOMAIN/settings](http://YOUR_SITE_DOMAIN/settings)
 
-## Email
+## Mail
 
-The mail settings contain an SMTP **username** and **password**.
+The mail settings contain standard SMTP fields:
+
+* **username** 
+* **password**
+* **host**
+* **port**
+* **from address** - used when sending emails
+* **to address** - used for receiving emails, such as from the contact form
+
+![](/assets/Apinf-settings-mail.png)
 
 ## Github
 
