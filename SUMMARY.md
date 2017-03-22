@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Installation](chapter1.md)
-* Configuration
+* [Configuration](configuration.md)
 
