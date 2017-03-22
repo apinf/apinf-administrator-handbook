@@ -23,6 +23,8 @@ The mail settings contain standard SMTP fields:
 
 The Github configuration takes two values, a **Client ID** and **Secret key**. You can obtain these values by [setting up a Github application](https://developer.github.com/guides/basics-of-authentication/) from your Github user account.
 
+![](/assets/Apinf-settings-github.png)
+
 ## Adding APIs
 
 The **Adding APIs** section of the settings allows you to restrict the platform, so that only Admin users can add APIs.
