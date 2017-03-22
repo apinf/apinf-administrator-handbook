@@ -14,3 +14,13 @@ The mail settings contain an SMTP **username** and **password**.
 
 The Github configuration takes two values, a **Client ID** and **Secret key**. You can obtain these values by [setting up a Github application](https://developer.github.com/guides/basics-of-authentication/) from your Github user account.
 
+## Adding APIs
+
+The **Adding APIs** section of the settings allows you to restrict the platform, so that only Admin users can add APIs.
+
+## API Documentation Editor
+
+Apinf is able to integrate with the Swagger Editor. To enable the API Documentation Editor feature, you should have already deployed the Swagger Editor, so that it is accessible via URL. Alternatively, you can link to the [Swagger Editor demo](http://editor.swagger.io/), assuming that it is accessible via HTTPS.
+
+
+
