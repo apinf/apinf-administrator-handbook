@@ -30,5 +30,5 @@ Apinf is able to integrate with the Swagger Editor. To enable the API Documentat
 
 Apinf integrates with the [Swagger Codegen](http://swagger.io/swagger-codegen/) project, allowing API Owners and Developers to generate SDK code based on a provided OpenAPI Specification file. To enable the SDK Code Generator feature, you should have already deployed the Swagger Codegen, so that it is accessible via an URL. Simply enter the Swagger Codegen URL in the **Host** field under **SDK Code Generator** settings panel and save settings.
 
-![](/assets/Screenshot_20170322_150606.png)
+![](/assets/Apinf-settings-sdkGenerator.png)
 
