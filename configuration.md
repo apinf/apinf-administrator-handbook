@@ -8,7 +8,7 @@ You can configure Apinf branding and other settings after registering an initial
 
 ## Email
 
-The mail settings contain an SMTP username and password.
+The mail settings contain an SMTP **username** and **password**.
 
 ## Github
 
