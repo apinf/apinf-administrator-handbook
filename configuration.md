@@ -18,6 +18,8 @@ The Github configuration takes two values, a **Client ID** and **Secret key**. Y
 
 The **Adding APIs** section of the settings allows you to restrict the platform, so that only Admin users can add APIs.
 
+![](/assets/Apinf-settings-addingAPIs.png)
+
 ## API Documentation Editor
 
 Apinf is able to integrate with the Swagger Editor. To enable the API Documentation Editor feature, you should have already deployed the Swagger Editor, so that it is accessible via an URL. Alternatively, you can link to the [Swagger Editor demo](http://editor.swagger.io/), assuming that it is accessible via HTTPS.
