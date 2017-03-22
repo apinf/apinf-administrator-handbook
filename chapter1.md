@@ -4,7 +4,5 @@ The Apinf platform is provided as a Docker image. Follow these steps to deploy t
 
 ## Run APInf container
 
-docker run -p 8080:80 -e MONGO\_URL=mongodb://localhost:27017/your\_db -e MAIL\_URL=smtp://some.mailserver.com:25 -e ROOT\_URL=http://YOUR\_SITE\_DOMAIN apinf/platform:latest
-
-
+`docker run -p 8080:80 -e MONGO_URL=mongodb://localhost:27017/your_db -e MAIL_URL=smtp://some.mailserver.com:25 -e ROOT_URL=`[`http://YOUR_SITE_DOMAIN`](http://YOUR_SITE_DOMAIN)` apinf/platform:latest`
 
