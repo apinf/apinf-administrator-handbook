@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Overview](overview.md)
 * [Installation](installation.md)
 * [Configuration](configuration.md)
-* [Overview](overview.md)
 * [Troubleshooting](troubleshooting.md)
 
